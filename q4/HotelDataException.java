@@ -1,0 +1,7 @@
+package student_27980.q4;
+
+public class HotelDataException extends Exception {
+    public HotelDataException(String message) {
+        super(message);
+    }
+}
